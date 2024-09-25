@@ -1,6 +1,6 @@
-from insta_client import Client
+from instagrapi import Client
 
-username, password = "testingg", "hi3333"
+username, password = "testingg387", "hi3333"
 
 client = Client()
 client.login(username, password)
